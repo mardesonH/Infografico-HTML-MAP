@@ -1,2 +1,2 @@
 # Infografico-HTML-MAP
-Infográfico interativo usando IMG MAP
+Criação de infográfico interativo para projeto da Universidade Federal do Ceará usando apenas IMG MAP.
